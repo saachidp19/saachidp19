@@ -4,3 +4,5 @@ Hi! I am Saachi Deshpande, a B.Tech Computer Science and Engineering student at 
 
 Learning Python and C programming
 Interested in web development and technology
+
+Goal: Build real-world projects and contribute to open source
