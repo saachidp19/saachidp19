@@ -6,3 +6,11 @@ Learning Python and C programming
 Interested in web development and technology
 
 Goal: Build real-world projects and contribute to open source
+
+
+
+
+
+## Projects
+
+- PhishGuard: A machine-learning project that detects potentially phishing URLs and classifies them as legitimate or phishing.
